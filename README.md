@@ -1,6 +1,8 @@
 # PotionEmporium
 Roscoe’s potion emporium, the finest potion shop in the land!
 
+The player starts with a randomized amount of gold, between 80 and 120.
+
 **EXAMPLE OUTPUT**
 ```
 Roscoe's Potion Emporium v1.0.0
